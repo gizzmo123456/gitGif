@@ -1,3 +1,3 @@
 #GitGifs
 
-Compiles all comits of an image into a nice little gif :D
+Compiles all commits of an image into a nice little gif :D
